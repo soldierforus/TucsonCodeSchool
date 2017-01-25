@@ -3,7 +3,7 @@ var counter = 0;
 function easterEgg(){
 
   if (counter === 4) {
-    window.location.href = 'egg.html';
+    window.location.href = 'hack.html';
   }
   else {
     counter ++;
