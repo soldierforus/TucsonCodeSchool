@@ -3,7 +3,7 @@ var counter = 0;
 function easterEgg(){
 
   if (counter === 4) {
-    alert("Congratulations you have discovered the TCS easterEgg!")
+    window.location.href = 'egg.html';
   }
   else {
     counter ++;
